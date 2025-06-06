@@ -7,4 +7,4 @@
 - [Roadmap.sh Fundamental IT skills](./roadmapsh-notes/Fundamental-IT-skills)
 
 **TryHackMe:**
-- [Roadmap.sh Fundamental IT skills](./tryhackme/Introduction)
+- [Introduction to Cyber Security](./tryhackme/Introduction)
