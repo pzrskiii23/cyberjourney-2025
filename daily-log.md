@@ -1,4 +1,4 @@
-## 2025-06-06 DAY1/365
+## 2025-06-06 DAY 1/365
 
 **Python:**
 - [Hello World section Codecademy](./python/Hello-World)
